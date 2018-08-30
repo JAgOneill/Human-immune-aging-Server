@@ -4,7 +4,7 @@
 
 library(magrittr)
 
-DATA_DIR <- file.path("/Users/oneils/Desktop/trial_369_another_3/data1")
+DATA_DIR <- file.path("data")
 
 # Read the data and get it ready for the app
 getData <- function() {
